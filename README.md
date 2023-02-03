@@ -1,6 +1,5 @@
-# OOP-Final-Project`
-De tai ket thuc mon hoc Lap trinh huong doi tuong - HK2/21-22.`
-De tai duoc thuc hien: Lap trinh trong moi truong Windows, van dung da hinh.`
-Thong tin nhom sinh vien thuc hien de tai:`
-20280082 - Tran Tuan Thai.  Email: info.ttthai@gmail.com`
-20280108 - Huynh Quang Trung. Email: huynhquangtrung935@gmail.com`
+# Đồ án cho môn học Lập trình hướng đối tượng
+Đề tài: Lập trình trong môi trường Windows, vận dụng tính đa hình.
+Nhóm sinh viên thực hiện đề tài:
+- 20280082 - Trần Tuấn Thái.
+- 20280108 - Huỳnh Quang Trung.
