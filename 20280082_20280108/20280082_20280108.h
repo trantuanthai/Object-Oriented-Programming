@@ -1,0 +1,13 @@
+#pragma once
+#include "resource.h"
+#include <iostream>
+#include <GL/gl.h>
+#include "Circle.h"
+#include "Ellipse.h"
+#include "Point.h"
+#include "Polygon.h"
+#include "Rectangle.h"
+#include "SemiCircle.h"
+#include "Shape.h"
+#include "Square.h"
+#include "Triangle.h"
